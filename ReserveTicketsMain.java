@@ -3,7 +3,6 @@ package session8;
 public class ReserveTicketsMain {
 	volatile static int remainingTix;
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Bus g=new Bus(10,10,"Green");
 		Bus r=new Bus(20,20,"Red");
 		int bookedSeats=0;

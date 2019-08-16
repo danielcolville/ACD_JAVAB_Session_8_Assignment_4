@@ -1,6 +1,5 @@
 package session8;
 
-import java.util.Scanner;
 
 public class ticketResThread extends Thread {
 	Bus b;
